@@ -1,0 +1,115 @@
+,Surah_Number,Place_of_Revelation,Order_of_Revelation,Pre_Bismillah,Name(simple),Name(complex),Name(Arabic),Verse_Count,Pages,Translated_Name(English),Start_Page_Number,End_Page_Number
+0,1,Makkah,5,False,Al-Fatihah,Al-Fātiĥah,الفاتحة,7,"[1, 1]",The Opener,1,1
+1,2,Madinah,87,True,Al-Baqarah,Al-Baqarah,البقرة,286,"[2, 49]",The Cow,2,49
+2,3,Madinah,89,True,Ali 'Imran,Āli `Imrān,آل عمران,200,"[50, 76]",Family of Imran,50,76
+3,4,Madinah,92,True,An-Nisa,An-Nisā,النساء,176,"[77, 106]",The Women,77,106
+4,5,Madinah,112,True,Al-Ma'idah,Al-Mā'idah,المائدة,120,"[106, 127]",The Table Spread,106,127
+5,6,Makkah,55,True,Al-An'am,Al-'An`ām,الأنعام,165,"[128, 150]",The Cattle,128,150
+6,7,Makkah,39,True,Al-A'raf,Al-'A`rāf,الأعراف,206,"[151, 176]",The Heights,151,176
+7,8,Madinah,88,True,Al-Anfal,Al-'Anfāl,الأنفال,75,"[177, 186]",The Spoils of War,177,186
+8,9,Madinah,113,False,At-Tawbah,At-Tawbah,التوبة,129,"[187, 207]",The Repentance,187,207
+9,10,Makkah,51,True,Yunus,Yūnus,يونس,109,"[208, 221]",Jonah,208,221
+10,11,Makkah,52,True,Hud,Hūd,هود,123,"[221, 235]",Hud,221,235
+11,12,Makkah,53,True,Yusuf,Yūsuf,يوسف,111,"[235, 248]",Joseph,235,248
+12,13,Madinah,96,True,Ar-Ra'd,Ar-Ra`d,الرعد,43,"[249, 255]",The Thunder,249,255
+13,14,Makkah,72,True,Ibrahim,Ibrāhīm,ابراهيم,52,"[255, 261]",Abraham,255,261
+14,15,Makkah,54,True,Al-Hijr,Al-Ĥijr,الحجر,99,"[262, 267]",The Rocky Tract,262,267
+15,16,Makkah,70,True,An-Nahl,An-Naĥl,النحل,128,"[267, 281]",The Bee,267,281
+16,17,Makkah,50,True,Al-Isra,Al-'Isrā,الإسراء,111,"[282, 293]",The Night Journey,282,293
+17,18,Makkah,69,True,Al-Kahf,Al-Kahf,الكهف,110,"[293, 304]",The Cave,293,304
+18,19,Makkah,44,True,Maryam,Maryam,مريم,98,"[305, 312]",Mary,305,312
+19,20,Makkah,45,True,Taha,Ţāhā,طه,135,"[312, 321]",Ta-Ha,312,321
+20,21,Makkah,73,True,Al-Anbya,Al-'Anbyā,الأنبياء,112,"[322, 331]",The Prophets,322,331
+21,22,Madinah,103,True,Al-Hajj,Al-Ĥajj,الحج,78,"[332, 341]",The Pilgrimage,332,341
+22,23,Makkah,74,True,Al-Mu'minun,Al-Mu'minūn,المؤمنون,118,"[342, 349]",The Believers,342,349
+23,24,Madinah,102,True,An-Nur,An-Nūr,النور,64,"[350, 359]",The Light,350,359
+24,25,Makkah,42,True,Al-Furqan,Al-Furqān,الفرقان,77,"[359, 366]",The Criterion,359,366
+25,26,Makkah,47,True,Ash-Shu'ara,Ash-Shu`arā,الشعراء,227,"[367, 376]",The Poets,367,376
+26,27,Makkah,48,True,An-Naml,An-Naml,النمل,93,"[377, 385]",The Ant,377,385
+27,28,Makkah,49,True,Al-Qasas,Al-Qaşaş,القصص,88,"[385, 396]",The Stories,385,396
+28,29,Makkah,85,True,Al-'Ankabut,Al-`Ankabūt,العنكبوت,69,"[396, 404]",The Spider,396,404
+29,30,Makkah,84,True,Ar-Rum,Ar-Rūm,الروم,60,"[404, 410]",The Romans,404,410
+30,31,Makkah,57,True,Luqman,Luqmān,لقمان,34,"[411, 414]",Luqman,411,414
+31,32,Makkah,75,True,As-Sajdah,As-Sajdah,السجدة,30,"[415, 417]",The Prostration,415,417
+32,33,Madinah,90,True,Al-Ahzab,Al-'Aĥzāb,الأحزاب,73,"[418, 427]",The Combined Forces,418,427
+33,34,Makkah,58,True,Saba,Saba,سبإ,54,"[428, 434]",Sheba,428,434
+34,35,Makkah,43,True,Fatir,Fāţir,فاطر,45,"[434, 440]",Originator,434,440
+35,36,Makkah,41,True,Ya-Sin,Yā-Sīn,يس,83,"[440, 445]",Ya Sin,440,445
+36,37,Makkah,56,True,As-Saffat,Aş-Şāffāt,الصافات,182,"[446, 452]",Those who set the Ranks,446,452
+37,38,Makkah,38,True,Sad,Şād,ص,88,"[453, 458]","The Letter ""Saad""",453,458
+38,39,Makkah,59,True,Az-Zumar,Az-Zumar,الزمر,75,"[458, 467]",The Troops,458,467
+39,40,Makkah,60,True,Ghafir,Ghāfir,غافر,85,"[467, 476]",The Forgiver,467,476
+40,41,Makkah,61,True,Fussilat,Fuşşilat,فصلت,54,"[477, 482]",Explained in Detail,477,482
+41,42,Makkah,62,True,Ash-Shuraa,Ash-Shūraá,الشورى,53,"[483, 489]",The Consultation,483,489
+42,43,Makkah,63,True,Az-Zukhruf,Az-Zukhruf,الزخرف,89,"[489, 495]",The Ornaments of Gold,489,495
+43,44,Makkah,64,True,Ad-Dukhan,Ad-Dukhān,الدخان,59,"[496, 498]",The Smoke,496,498
+44,45,Makkah,65,True,Al-Jathiyah,Al-Jāthiyah,الجاثية,37,"[499, 502]",The Crouching,499,502
+45,46,Makkah,66,True,Al-Ahqaf,Al-'Aĥqāf,الأحقاف,35,"[502, 506]",The Wind-Curved Sandhills,502,506
+46,47,Madinah,95,True,Muhammad,Muĥammad,محمد,38,"[507, 510]",Muhammad,507,510
+47,48,Madinah,111,True,Al-Fath,Al-Fatĥ,الفتح,29,"[511, 515]",The Victory,511,515
+48,49,Madinah,106,True,Al-Hujurat,Al-Ĥujurāt,الحجرات,18,"[515, 517]",The Rooms,515,517
+49,50,Makkah,34,True,Qaf,Qāf,ق,45,"[518, 520]","The Letter ""Qaf""",518,520
+50,51,Makkah,67,True,Adh-Dhariyat,Adh-Dhāriyāt,الذاريات,60,"[520, 523]",The Winnowing Winds,520,523
+51,52,Makkah,76,True,At-Tur,Aţ-Ţūr,الطور,49,"[523, 525]",The Mount,523,525
+52,53,Makkah,23,True,An-Najm,An-Najm,النجم,62,"[526, 528]",The Star,526,528
+53,54,Makkah,37,True,Al-Qamar,Al-Qamar,القمر,55,"[528, 531]",The Moon,528,531
+54,55,Madinah,97,True,Ar-Rahman,Ar-Raĥmān,الرحمن,78,"[531, 534]",The Beneficent,531,534
+55,56,Makkah,46,True,Al-Waqi'ah,Al-Wāqi`ah,الواقعة,96,"[534, 537]",The Inevitable,534,537
+56,57,Madinah,94,True,Al-Hadid,Al-Ĥadīd,الحديد,29,"[537, 541]",The Iron,537,541
+57,58,Madinah,105,True,Al-Mujadila,Al-Mujādila,المجادلة,22,"[542, 545]",The Pleading Woman,542,545
+58,59,Madinah,101,True,Al-Hashr,Al-Ĥashr,الحشر,24,"[545, 548]",The Exile,545,548
+59,60,Madinah,91,True,Al-Mumtahanah,Al-Mumtaĥanah,الممتحنة,13,"[549, 551]",She that is to be examined,549,551
+60,61,Madinah,109,True,As-Saf,Aş-Şaf,الصف,14,"[551, 552]",The Ranks,551,552
+61,62,Madinah,110,True,Al-Jumu'ah,Al-Jumu`ah,الجمعة,11,"[553, 554]","The Congregation, Friday",553,554
+62,63,Madinah,104,True,Al-Munafiqun,Al-Munāfiqūn,المنافقون,11,"[554, 555]",The Hypocrites,554,555
+63,64,Madinah,108,True,At-Taghabun,At-Taghābun,التغابن,18,"[556, 557]",The Mutual Disillusion,556,557
+64,65,Madinah,99,True,At-Talaq,Aţ-Ţalāq,الطلاق,12,"[558, 559]",The Divorce,558,559
+65,66,Madinah,107,True,At-Tahrim,At-Taĥrīm,التحريم,12,"[560, 561]",The Prohibition,560,561
+66,67,Makkah,77,True,Al-Mulk,Al-Mulk,الملك,30,"[562, 564]",The Sovereignty,562,564
+67,68,Makkah,2,True,Al-Qalam,Al-Qalam,القلم,52,"[564, 566]",The Pen,564,566
+68,69,Makkah,78,True,Al-Haqqah,Al-Ĥāqqah,الحاقة,52,"[566, 568]",The Reality,566,568
+69,70,Makkah,79,True,Al-Ma'arij,Al-Ma`ārij,المعارج,44,"[568, 570]",The Ascending Stairways,568,570
+70,71,Makkah,71,True,Nuh,Nūĥ,نوح,28,"[570, 571]",Noah,570,571
+71,72,Makkah,40,True,Al-Jinn,Al-Jinn,الجن,28,"[572, 573]",The Jinn,572,573
+72,73,Makkah,3,True,Al-Muzzammil,Al-Muzzammil,المزمل,20,"[574, 575]",The Enshrouded One,574,575
+73,74,Makkah,4,True,Al-Muddaththir,Al-Muddaththir,المدثر,56,"[575, 577]",The Cloaked One,575,577
+74,75,Makkah,31,True,Al-Qiyamah,Al-Qiyāmah,القيامة,40,"[577, 578]",The Resurrection,577,578
+75,76,Madinah,98,True,Al-Insan,Al-'Insān,الانسان,31,"[578, 580]",The Man,578,580
+76,77,Makkah,33,True,Al-Mursalat,Al-Mursalāt,المرسلات,50,"[580, 581]",The Emissaries,580,581
+77,78,Makkah,80,True,An-Naba,An-Naba,النبإ,40,"[582, 583]",The Tidings,582,583
+78,79,Makkah,81,True,An-Nazi'at,An-Nāzi`āt,النازعات,46,"[583, 584]",Those who drag forth,583,584
+79,80,Makkah,24,True,'Abasa,`Abasa,عبس,42,"[585, 585]",He Frowned,585,585
+80,81,Makkah,7,True,At-Takwir,At-Takwīr,التكوير,29,"[586, 586]",The Overthrowing,586,586
+81,82,Makkah,82,True,Al-Infitar,Al-'Infiţār,الإنفطار,19,"[587, 587]",The Cleaving,587,587
+82,83,Makkah,86,True,Al-Mutaffifin,Al-Muţaffifīn,المطففين,36,"[587, 589]",The Defrauding,587,589
+83,84,Makkah,83,True,Al-Inshiqaq,Al-'Inshiqāq,الإنشقاق,25,"[589, 589]",The Sundering,589,589
+84,85,Makkah,27,True,Al-Buruj,Al-Burūj,البروج,22,"[590, 590]",The Mansions of the Stars,590,590
+85,86,Makkah,36,True,At-Tariq,Aţ-Ţāriq,الطارق,17,"[591, 591]",The Nightcommer,591,591
+86,87,Makkah,8,True,Al-A'la,Al-'A`lá,الأعلى,19,"[591, 592]",The Most High,591,592
+87,88,Makkah,68,True,Al-Ghashiyah,Al-Ghāshiyah,الغاشية,26,"[592, 592]",The Overwhelming,592,592
+88,89,Makkah,10,True,Al-Fajr,Al-Fajr,الفجر,30,"[593, 594]",The Dawn,593,594
+89,90,Makkah,35,True,Al-Balad,Al-Balad,البلد,20,"[594, 594]",The City,594,594
+90,91,Makkah,26,True,Ash-Shams,Ash-Shams,الشمس,15,"[595, 595]",The Sun,595,595
+91,92,Makkah,9,True,Al-Layl,Al-Layl,الليل,21,"[595, 596]",The Night,595,596
+92,93,Makkah,11,True,Ad-Duhaa,Ađ-Đuĥaá,الضحى,11,"[596, 596]",The Morning Hours,596,596
+93,94,Makkah,12,True,Ash-Sharh,Ash-Sharĥ,الشرح,8,"[596, 596]",The Relief,596,596
+94,95,Makkah,28,True,At-Tin,At-Tīn,التين,8,"[597, 597]",The Fig,597,597
+95,96,Makkah,1,True,Al-'Alaq,Al-`Alaq,العلق,19,"[597, 597]",The Clot,597,597
+96,97,Makkah,25,True,Al-Qadr,Al-Qadr,القدر,5,"[598, 598]",The Power,598,598
+97,98,Madinah,100,True,Al-Bayyinah,Al-Bayyinah,البينة,8,"[598, 599]",The Clear Proof,598,599
+98,99,Madinah,93,True,Az-Zalzalah,Az-Zalzalah,الزلزلة,8,"[599, 599]",The Earthquake,599,599
+99,100,Makkah,14,True,Al-'Adiyat,Al-`Ādiyāt,العاديات,11,"[599, 600]",The Courser,599,600
+100,101,Makkah,30,True,Al-Qari'ah,Al-Qāri`ah,القارعة,11,"[600, 600]",The Calamity,600,600
+101,102,Makkah,16,True,At-Takathur,At-Takāthur,التكاثر,8,"[600, 600]",The Rivalry in world increase,600,600
+102,103,Makkah,13,True,Al-'Asr,Al-`Aşr,العصر,3,"[601, 601]",The Declining Day,601,601
+103,104,Makkah,32,True,Al-Humazah,Al-Humazah,الهمزة,9,"[601, 601]",The Traducer,601,601
+104,105,Makkah,19,True,Al-Fil,Al-Fīl,الفيل,5,"[601, 601]",The Elephant,601,601
+105,106,Makkah,29,True,Quraysh,Quraysh,قريش,4,"[602, 602]",Quraysh,602,602
+106,107,Makkah,17,True,Al-Ma'un,Al-Mā`ūn,الماعون,7,"[602, 602]",The Small kindnesses,602,602
+107,108,Makkah,15,True,Al-Kawthar,Al-Kawthar,الكوثر,3,"[602, 602]",The Abundance,602,602
+108,109,Makkah,18,True,Al-Kafirun,Al-Kāfirūn,الكافرون,6,"[603, 603]",The Disbelievers,603,603
+109,110,Madinah,114,True,An-Nasr,An-Naşr,النصر,3,"[603, 603]",The Divine Support,603,603
+110,111,Makkah,6,True,Al-Masad,Al-Masad,المسد,5,"[603, 603]",The Palm Fiber,603,603
+111,112,Makkah,22,True,Al-Ikhlas,Al-'Ikhlāş,الإخلاص,4,"[604, 604]",The Sincerity,604,604
+112,113,Makkah,20,True,Al-Falaq,Al-Falaq,الفلق,5,"[604, 604]",The Daybreak,604,604
+113,114,Makkah,21,True,An-Nas,An-Nās,الناس,6,"[604, 604]",Mankind,604,604
